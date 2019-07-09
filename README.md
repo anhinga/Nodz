@@ -1,11 +1,14 @@
 ### about this fork
 
-ports from Python 2 to Python 3 (just parentheses in `print` statement, and `str` instead of `unicode`
+this fork ports from Python 2 to Python 3 (just parentheses in `print` statement, and `str` instead of `unicode`
 in one place)
 
 this is done as one of the experiments during my search for a node editor for DMMs:
 [https://github.com/anhinga/2019-python-drafts/tree/master/node-editors](https://github.com/anhinga/2019-python-drafts/tree/master/node-editors)
 
+this software uses [https://github.com/mottosso/Qt.py](https://github.com/mottosso/Qt.py), so  one needs to install that before playing with this fork (`pip install Qt.py` worked for me). 
+
+### original README follows
 
 ![Screenshot](nodz.png)
 
