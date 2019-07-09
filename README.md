@@ -9,6 +9,10 @@ this is done as one of the experiments during my search for a node editor for DM
 this software uses [https://github.com/mottosso/Qt.py](https://github.com/mottosso/Qt.py), so  one needs to install that before playing with this fork:
 
   * `pip install Qt.py` worked for me. 
+  
+After doing this:
+
+  * `python nodz_demo.py` works in Python 3.7 for me.
 
 ### original README follows
 
