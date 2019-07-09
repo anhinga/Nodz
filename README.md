@@ -1,3 +1,12 @@
+### about this fork
+
+ports from Python 2 to Python 3 (just parentheses in `print` statement, and `str` instead of `unicode`
+in one place)
+
+this is done as one of the experiments during my search for a node editor for DMMs:
+[https://github.com/anhinga/2019-python-drafts/tree/master/node-editors](https://github.com/anhinga/2019-python-drafts/tree/master/node-editors)
+
+
 ![Screenshot](nodz.png)
 
 Nodz is a very user friendly python library to create nodes based graphs. It can be connected to anything you want as long as it understands python. Nodz does not hold any data other than its own graphics and attributes types as it is used by the graphics.
